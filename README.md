@@ -39,7 +39,7 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ![LED Indicator](images/led_indicator.jpg)
 
 ## Demo Video 
-[Project Demonstration](video/demo.mp4)
+[Project Demonstration](video/demo.mp4
 
 ## Code
 The project firmware is written in C++ using the Arduino framework.
