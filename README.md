@@ -30,7 +30,7 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ## Images
 
 ### System Setup
-![System Setup](images/setup.jpg)
+![System Setup](Project photo 3.jpeg)
 
 ### LCD Display
 ![LCD Output](images/lcd_display.jpg)
