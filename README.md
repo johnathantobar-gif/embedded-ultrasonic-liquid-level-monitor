@@ -30,7 +30,7 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ## Images
 
 ### CAD Design
-![Sensor Mount]()
+![Sensor Mount](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/05e761f013af8e60786c532b51cbe4ab46e572f4/photo%20(1).png)
 ![Sensor Mount]()
 
 ### System Setup
