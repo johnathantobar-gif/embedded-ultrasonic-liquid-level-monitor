@@ -44,6 +44,9 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ## Demo Video 
 [Project Demonstration]([video/demo.mp4](https://youtube.com/shorts/iljA4f5ztGU?feature=share)
 
+## Diagram
+![Project Diagram](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/3be37b79575ed75dec62650a36ec0d1243f463c6/Breadboard%20Ultrasonic.png)
+
 ## Code
 The project firmware is written in C++ using the Arduino framework.
 The code performs ultrasonic measurement, calibration-based level calculation, LCD display control, and LED threshold logic.
