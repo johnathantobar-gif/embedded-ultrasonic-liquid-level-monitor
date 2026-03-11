@@ -38,7 +38,7 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ![image alt](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/4cb26c3029d557f4b0e3de94e162fe182407d062/Project%20photo%201.jpeg)
 
 ## Demo Video 
-[Project Demonstration](video/demo.mp4
+[Project Demonstration]([video/demo.mp4](https://youtube.com/shorts/iWzZLhrb5z8?feature=share)
 
 ## Code
 The project firmware is written in C++ using the Arduino framework.
