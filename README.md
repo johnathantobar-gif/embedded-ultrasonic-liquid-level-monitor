@@ -48,6 +48,16 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 The project firmware is written in C++ using the Arduino framework.
 The code performs ultrasonic measurement, calibration-based level calculation, LCD display control, and LED threshold logic.
 
+Main features:
+- Ultrasonic distance measurement
+- Calibration-based level calculation
+- LCD display output
+- LED level indicators
+
+View the source code here:
+
+[src/ultrasonic_level_monitor.ino]()
+
 ## Author
 **Jonathan Tobar**
 Electrical Engineering Student
