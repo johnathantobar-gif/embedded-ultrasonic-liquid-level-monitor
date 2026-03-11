@@ -34,11 +34,8 @@ Real-time distance and level data are displayed on a 16x2 LCD interface, and a f
 ![image alt](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/bf79a983af862f30a801693130622c0d269da597/Project%20photo%202.jpeg)
 ![image alt](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/12865785d77bd5a72963a4a3c770dfd97c27ea53/Project%20photo%209.jpeg)
 
-### LCD Display
+### LCD Display + LED Level Indicator
 ![image alt](https://github.com/johnathantobar-gif/embedded-ultrasonic-liquid-level-monitor/blob/4cb26c3029d557f4b0e3de94e162fe182407d062/Project%20photo%201.jpeg)
-
-### LED Level Indicator 
-![LED Indicator](images/led_indicator.jpg)
 
 ## Demo Video 
 [Project Demonstration](video/demo.mp4
